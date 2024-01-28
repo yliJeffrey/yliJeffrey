@@ -9,7 +9,7 @@
 
 
 ### Glad to see you here!  
-Currently, I am a first-year computer science student at the University of Rochester.  
+Currently, I am a computer science student at the University of Rochester.  
   
 
 <br/> 
