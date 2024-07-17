@@ -9,5 +9,3 @@ My main interest is machine learning and computer vision.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yliJeffrey&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yliJeffrey&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=yliJeffrey&icon=0&color=0)](https://visitcount.itsvg.in)
