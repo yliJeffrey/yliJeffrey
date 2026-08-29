@@ -1,5 +1,5 @@
 # 💫About Me :
-Currently, I am a computer science student at the University of Rochester.
+Currently, I am a computer science student at the Duke University.
 My main interest is machine learning and computer vision.
 
 # 💻Tech Stack
